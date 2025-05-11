@@ -1,0 +1,4 @@
+Kim 80 
+ Lee 90 
+ Park 70 
+ Choi 100
