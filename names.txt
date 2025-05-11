@@ -1,0 +1,4 @@
+kim,student
+lee,professor
+park,student
+choi,professor
